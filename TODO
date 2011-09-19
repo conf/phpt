@@ -1,0 +1,6 @@
+- requirements check
+- getting environment information
+- parsing phpt files
+- running phpt files through php executable
+- setting up the embedded php web server
+- running phpt files through php web server
